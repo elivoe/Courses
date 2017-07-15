@@ -50,6 +50,20 @@ As a follow Up to the course project should be collected and presented.
 
 # Course
 
+
+#### 34 Getting started with electronics **Elias Voegel**
+- Format: workshop with 5 units with 2h each
+- basics of electronics (components, easy calculation, symbols,...)
+- choose components and using datasheets
+- standard circuits
+- designing own circuits
+- layouting PCBs (using OpenSource software KiCad)
+- simulating circuits using LTspice (freeware)
+- Participants: 5-20
+- Preparations: bring laptop with KiCad (http://kicad-pcb.org/download/) and LTspice (http://www.linear.com/designtools/software/ only WIN and MAC) installed
+- Price: 30€
+
+
 #### 33 HelloRuby Computer Thinking for Kids
 - Format: short workshops 2 x 45 min with break
 - Content: games/lessons from HelloRuby http://www.helloruby.com/
